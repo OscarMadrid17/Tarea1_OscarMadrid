@@ -1,1 +1,1 @@
-Documentacion de la tarea 1
+Documentacion de la tarea 1, la tarea se creo en un archivo html para el formulario en conjunto con los script de javascript para la programacion del generador de contraseñas, donde se creo una clase llamada generador del cual cuenta con tres funciones generar_usarname, generar_password y obtener credenciales las cuales interactuan agregando un addEventListener en el formulario por medio de su id para el evento submit
